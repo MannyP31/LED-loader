@@ -1,0 +1,88 @@
+
+.loader{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #00ff87 #00422357;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+}
+.loader2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #d400ff #4200115b;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+}
+.loader3{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #d0ff00 #30420057;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+}
+.loader4{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #ff0000 #00421457;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+
+}
+.loader5{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #0004ff #00421457;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+    }
+.loader6{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #00ffdd #00421457;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+}
+.loader7{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #ff9100 #00421457;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+
+}
+.loader8{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 10px solid;
+    border-color: #b13f65 #00421457;
+    animation: 1.5s spin infinite;
+    background-color: black;
+
+}
+@keyframes spin{
+    to{
+        transform: rotate(360deg);
+    }
+}
